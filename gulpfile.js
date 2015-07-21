@@ -14,7 +14,7 @@ var gulp       = require('gulp'),
  * --------------------------------
  */
 	path = {
-		src: './src/**/*.html',
+		src: './html/**/*.html',
 		out: 'build/'
 	},
 
